@@ -26,6 +26,6 @@ In case you want to dimm it or control externally you need to put extra wires fr
 Images
 ------
 
-![Photo](images/bottom.png|width=)
+![Photo](images/bottom.png)
 
 ![Photo](images/front.png)
